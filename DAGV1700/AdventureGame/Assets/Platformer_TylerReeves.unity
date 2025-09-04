@@ -457,7 +457,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   jumpForce: 4
-  gravity: -9.81
+  gravity: 9.81
 --- !u!143 &48370908
 CharacterController:
   m_ObjectHideFlags: 0
@@ -476,7 +476,7 @@ CharacterController:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Height: 0.3
+  m_Height: 0.1
   m_Radius: 0.1
   m_SlopeLimit: 45
   m_StepOffset: 0.3
